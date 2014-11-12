@@ -9,7 +9,6 @@
  * @author fuyun
  */
 public class student {
-    int test;
     int studentID;
     String name;
     String program;
